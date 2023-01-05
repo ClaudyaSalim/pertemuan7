@@ -3,7 +3,7 @@ package pertemuan7;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class Main {
+public class Main {   
 	
 	Scanner scan = new Scanner(System.in);
 	Vector <Product> listProduct = new Vector<>();
